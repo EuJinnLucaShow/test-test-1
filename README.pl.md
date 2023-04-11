@@ -1,23 +1,6 @@
 # Parcel template
 
 
-
-## Przygotowanie nowego projektu
-
-1. Upewnij się, że na komputerze zainstalowana jest wersja LTS Node.js.
-   [Ściągnij i zainstaluj](https://nodejs.org/en/), jeśli jest taka potrzeba.
-2. Sklonuj to repozytorium.
-3. Zmień nazwę folderu z `parcel-project-template` na nazwę swojego projektu.
-4. Utwórz nowe, puste repozytorium na GitHub.
-5. Otwórz projekt w VSCode, uruchom terminal i zwiąż projekt z repozytorium
-   GitHub
-   [zgodnie z instrukcją](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
-6. Utwórz zależność projektu w terminalu przez polecenie `npm install` .
-7. Włącz tryb edycji, wykonując polecenie `npm start`.
-8. Przejdź w przeglądarce pod adres
-   [http://localhost:1234](http://localhost:1234). Ta strona będzie się
-   automatycznie odświeżać po dokonaniu zmian w plikach projektu.
-
 ## Pliki i foldery
 
 - Wszystkie partiale plików stylów powinny znajdować się w folderze `src/sass` i
